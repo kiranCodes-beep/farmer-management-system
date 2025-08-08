@@ -1,0 +1,3 @@
+# Core dependencies for Farmer Management System
+# Note: matplotlib and pandas are optional for advanced features
+# The system works without them for basic functionality 
